@@ -10,6 +10,11 @@
 # Usage: perl auto_run_mutsig.pl list_of_sample.txt																	#
 #####################################################################################################################
 
+######################
+######version2########
+######################
+
+
 use warnings;
 use strict;
 use Time::HiRes qw(gettimeofday);
